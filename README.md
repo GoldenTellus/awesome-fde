@@ -1,8 +1,8 @@
-# awesome-fde
+# ⭐ awesome-fde
 
 FDE、企业 AI 和 AI 应用落地资源聚合。
 
-## 三句话导航
+## 🗺️ 三句话导航
 
 > 这是什么：跨组织的 FDE 资源索引。
 >
