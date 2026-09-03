@@ -6,7 +6,7 @@ FDE、企业 AI 和 AI 应用落地资源聚合。
 
 > 这是什么：跨组织的 FDE 资源索引。
 >
-> 上一个：`goldentellus-toolkit` -> **当前** -> 下一个：`goldentellus-reports`
+> 上一个：`goldentellus-labs` -> **当前** -> 下一个：`goldentellus-reports`
 >
 > 我应该看：先检查来源、链接有效性、维护状态和许可证。
 
